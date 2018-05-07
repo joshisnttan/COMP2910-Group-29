@@ -1,0 +1,2 @@
+We should implment a button that when a user presses it, the user will automatically 
+achieve the highest score and saved to database.
